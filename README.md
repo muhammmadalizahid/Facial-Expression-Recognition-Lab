@@ -1,6 +1,6 @@
-# Made by: Muhammad Ali Zahid - Software & AI Engineer 
+## Made by: Muhammad Ali Zahid - Software & AI Engineer 
 
-# Contact: muhammadalizahid0621@gmail.com
+## Contact: muhammadalizahid0621@gmail.com
 
 # Facial Expression Recognition Lab Documentation
 
